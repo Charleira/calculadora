@@ -1,0 +1,7 @@
+.calculator__keys{
+    display: inline-grid;
+   grid-template-columns: auto auto auto;
+}
+.key--operator{
+
+}
